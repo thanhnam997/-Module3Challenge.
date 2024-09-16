@@ -1,0 +1,15 @@
+/workspaces/-Module3Challenge./VistorApp/bin/Debug/net8.0/VistorApp
+/workspaces/-Module3Challenge./VistorApp/bin/Debug/net8.0/VistorApp.deps.json
+/workspaces/-Module3Challenge./VistorApp/bin/Debug/net8.0/VistorApp.runtimeconfig.json
+/workspaces/-Module3Challenge./VistorApp/bin/Debug/net8.0/VistorApp.dll
+/workspaces/-Module3Challenge./VistorApp/bin/Debug/net8.0/VistorApp.pdb
+/workspaces/-Module3Challenge./VistorApp/obj/Debug/net8.0/VistorApp.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/-Module3Challenge./VistorApp/obj/Debug/net8.0/VistorApp.AssemblyInfoInputs.cache
+/workspaces/-Module3Challenge./VistorApp/obj/Debug/net8.0/VistorApp.AssemblyInfo.cs
+/workspaces/-Module3Challenge./VistorApp/obj/Debug/net8.0/VistorApp.csproj.CoreCompileInputs.cache
+/workspaces/-Module3Challenge./VistorApp/obj/Debug/net8.0/VistorApp.sourcelink.json
+/workspaces/-Module3Challenge./VistorApp/obj/Debug/net8.0/VistorApp.dll
+/workspaces/-Module3Challenge./VistorApp/obj/Debug/net8.0/refint/VistorApp.dll
+/workspaces/-Module3Challenge./VistorApp/obj/Debug/net8.0/VistorApp.pdb
+/workspaces/-Module3Challenge./VistorApp/obj/Debug/net8.0/VistorApp.genruntimeconfig.cache
+/workspaces/-Module3Challenge./VistorApp/obj/Debug/net8.0/ref/VistorApp.dll
